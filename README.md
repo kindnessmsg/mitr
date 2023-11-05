@@ -1,5 +1,3 @@
-# mitr
-
 # User Authentication with tkinter and SQLite
 
 This is a basic user authentication project created with Python using tkinter for the GUI and SQLite for data storage. The application provides a simple login window that checks user credentials against a pre-defined user database.
