@@ -62,7 +62,7 @@ class LoginWindow:
     def show_message(self, message, success):
         if success:
             # Show success message
-            messagebox.showinfo("Success!", "Authentication Succesful")
+            messagebox.showinfo("Success!", "Authentication Successful")
         else:
             # Show error message for failed authentication
             messagebox.showerror("Failure!", "Authentication Failed. Invalid Username or password")
